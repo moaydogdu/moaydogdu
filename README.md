@@ -1,3 +1,14 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="rapter1990" /> 
+    <img src="https://img.shields.io/github/followers/Rapter1990?style=social" />
+    <img src="https://img.shields.io/github/stars/Rapter1990/Rapter1990?style=social" />
+    <img src="https://img.shields.io/github/watchers/Rapter1990/Rapter1990?style=social" />
+    <img src="https://img.shields.io/github/size/Rapter1990/Rapter1990/README.md" />
+    <img src="https://img.shields.io/github/last-commit/Rapter1990/Rapter1990" />
+    <img src="https://img.shields.io/github/contributors/Rapter1990/Rapter1990" />   
+    <img src="https://badge.fury.io/gh/Rapter1990%2FRapter1990.svg" />  
+    
+</p>
 <h1 align="center">Hi 👋, I'm Muhammet Oğuzhan AYDOĞDU</h1>
 <h3 align="center">A backend developer from Turkey.</h3>
 
