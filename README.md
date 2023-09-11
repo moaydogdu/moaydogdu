@@ -1,12 +1,12 @@
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="rapter1990" /> 
-    <img src="https://img.shields.io/github/followers/Rapter1990?style=social" />
-    <img src="https://img.shields.io/github/stars/Rapter1990/Rapter1990?style=social" />
-    <img src="https://img.shields.io/github/watchers/Rapter1990/Rapter1990?style=social" />
-    <img src="https://img.shields.io/github/size/Rapter1990/Rapter1990/README.md" />
-    <img src="https://img.shields.io/github/last-commit/Rapter1990/Rapter1990" />
-    <img src="https://img.shields.io/github/contributors/Rapter1990/Rapter1990" />   
-    <img src="https://badge.fury.io/gh/Rapter1990%2FRapter1990.svg" />  
+    <img src="https://komarev.com/ghpvc/?username=moaydogdu" alt="moaydogdu" /> 
+    <img src="https://img.shields.io/github/followers/moaydogdu?style=social" />
+    <img src="https://img.shields.io/github/stars/moaydogdu/moaydogdu?style=social" />
+    <img src="https://img.shields.io/github/watchers/moaydogdu/moaydogdu?style=social" />
+    <img src="https://img.shields.io/github/size/moaydogdu/moaydogdu/README.md" />
+    <img src="https://img.shields.io/github/last-commit/moaydogdu/moaydogdu" />
+    <img src="https://img.shields.io/github/contributors/moaydogdu/moaydogdu" />   
+    <img src="https://badge.fury.io/gh/moaydogdu%2Fmoaydogdu.svg" />  
     
 </p>
 <h1 align="center">Hi 👋, I'm Muhammet Oğuzhan AYDOĞDU</h1>
