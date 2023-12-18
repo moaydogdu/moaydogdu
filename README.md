@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **m.o.aydogdu@outlook.com**
 
-<a href="https://1drv.ms/b/s!Ao07TSRmO3pXgb9S5V8eydREyE2FAg?e=hT0aRu">Click for my CV</a>
+- <a href="https://1drv.ms/b/s!Ao07TSRmO3pXgb9S5V8eydREyE2FAg?e=hT0aRu">Click for my CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
