@@ -3,10 +3,7 @@
     <img src="https://img.shields.io/github/followers/moaydogdu?style=social" />
     <img src="https://img.shields.io/github/stars/moaydogdu/moaydogdu?style=social" />
     <img src="https://img.shields.io/github/watchers/moaydogdu/moaydogdu?style=social" />
-    <img src="https://img.shields.io/github/size/moaydogdu/moaydogdu/README.md" />
-    <img src="https://img.shields.io/github/last-commit/moaydogdu/moaydogdu" />
-    <img src="https://img.shields.io/github/contributors/moaydogdu/moaydogdu" />   
-    <img src="https://badge.fury.io/gh/moaydogdu%2Fmoaydogdu.svg" />  
+    <img src="https://img.shields.io/github/size/moaydogdu/moaydogdu/README.md" />  
     
 </p>
 <h1 align="center">Hi 👋, I'm Muhammet Oğuzhan AYDOĞDU</h1>
