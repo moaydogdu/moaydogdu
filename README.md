@@ -1,9 +1,6 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=moaydogdu" alt="moaydogdu" /> 
-    <img src="https://img.shields.io/github/followers/moaydogdu?style=social" />
-    <img src="https://img.shields.io/github/stars/moaydogdu/moaydogdu?style=social" />
-    <img src="https://img.shields.io/github/watchers/moaydogdu/moaydogdu?style=social" />
-    <img src="https://img.shields.io/github/size/moaydogdu/moaydogdu/README.md" />  
+
     
 </p>
 <h1 align="center">Hi 👋, I'm Muhammet Oğuzhan AYDOĞDU</h1>
