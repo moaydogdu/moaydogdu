@@ -3,7 +3,7 @@
     
 - 📫 How to reach me **m.o.aydogdu@outlook.com**
 
-- <a href="https://1drv.ms/b/s!Ao07TSRmO3pXgtQYMaV5iS_cOoAhxw?e=2t7luO">Click for my CV</a>
+- <a href="[https://1drv.ms/b/s!Ao07TSRmO3pXgtQYMaV5iS_cOoAhxw?e=2t7luO](https://1drv.ms/b/s!Ao07TSRmO3pXgtQxmPfZi8XnvKkh3g?e=iAcvS0)">Click for my CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
